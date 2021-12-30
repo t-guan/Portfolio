@@ -4,7 +4,6 @@ title: Resume
 description: Thomas Guan Resume
 image:
 nav-menu: true
-pdf_file: pdfs/Resume.pdf
 ---
 
 <html>
@@ -83,4 +82,3 @@ pdf_file: pdfs/Resume.pdf
 		</div>
 	</div>
 </html>
-<!--{% pdf {{ page.pdf_file }} %}-->
