@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Smart Beehive
-description: A set of technological attachmenets to beehives which can assist beekeepers in tending to their colonies.
-image: assets/images/BHive.jpg
+title: Warehouse System Software
+description: Developing a system which allows users to control an e-commerence-esque warehouse.
+image: assets/images/warehouse.jpg
 ---
 
-BEES BEES BEES
+WAREHOUSEWAREHOUSE
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
