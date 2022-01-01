@@ -47,7 +47,7 @@ nav-menu: true
 			</dd>
 		</dl>
 	</div>
-	<h2><i><u> Engineering Design Teams</u></i></h2>
+	<h2><i><u>Engineering Design Teams</u></i></h2>
 	<!--<hr style="border: solid 1px;" />-->
 	<div class="row">
 		<dl>
@@ -70,15 +70,47 @@ nav-menu: true
 	<div class="row">
 		<div class="4u 12u$(medium)">
 			<h3>UBC Academic Continuity Team</h3>
-			<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+			<dt><i>May 2020-August 2020</i></dt>	
+			<ul>
+				<li>Developed pedagogy with regards to delivering lecture and instructional content online.</li> 
+				<li>Created and wrote Python bots, some of which interacted with the screen to streamline tasks, for example, streamlining communication methods with faculty members or creating dummy users.</li>
+				<li>Developed and created tools on Canvas to help create effective communication and content delivery for students.</li>
+				<li>Researched, tested, and recommended various tools ranging from video conferencing tools to virtual meeting tools for higher level education.</li>
+				<li>Created and wrote documentation, frequently met with faculty to assess their needs, provide advice and guidance.</li>
+			</ul>
 		</div>
 		<div class="4u 12u$(medium)">
 			<h3>Geering Up UBC</h3>
-			<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+			<dt><i>September 2017-April 2019, Jan 2021-April 2021</i></dt>
+				<ul>
+					<li>Developed engaging and adaptable curriculum and activities for coding camps and clubs, with a focus on Arduino, C, Python, and CAD, for students of varying skill levels, learning styles and interests.</li>
+					<li>Used 3D Printing in conjunction with Python and Arduino for student activites, helping them refine and design prototypes with 3D printing in mind, as well as operating and setting up the 3D printing machines.</li>
+					<li>Worked closely with various groups of students at various levels and backgrounds, ranging from elementary school to high school..</li>
+					<li>Developed methods to accommodate various groups of students who differed in skill to ensure holistic learning of the curriculum.</li>
+				</ul>
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<h3>Private Tutor</h3>
-			<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+			<dt><i>July 2019-December 2019, Jan 2021-April 2021</i></dt>
+			<ul>
+				<li>Developed and taught curriculum based on the BC Provincial Calculus 12 and Physics 12 curriculum, as well as the BC 6,7,8 Math curriculum.</li>
+				<li>Worked with students of various level of study and skills.</li>
+				<li>Identified methods to help student supplement their learning in way which would most benefit the student for performance in the classroom.</li>
+				<li>Acted as a mentor, gave advice in terms of choosing their schooling career, and helped students in writing essays for scholarships and school admittances.</li>
+			</ul>
 		</div>
+	</div>
+	<h2><i><u>Education</u></i></h2>
+	<!--<hr style="border: solid 1px;" />-->
+	<div class="row">
+		<dl>
+			<h3>Univeristy of British Columbia &emsp;<font size="4">(September 2017-May 2022)</font></h3>
+			<dt><i>Bachelors of Mechanical Engineering, Specializing in Mechatronics Engineering</i></dt>
+			<dd>
+				<ul>
+				<li>Dean's Honor List 2020, 2019, 2017</li>
+				</ul>
+			</dd>
+		</dl>
 	</div>
 </html>
