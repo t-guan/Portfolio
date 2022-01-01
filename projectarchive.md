@@ -6,7 +6,7 @@ nav-menu: true
 description: null
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
 
-<h1>All posts</h1>
+<h1>Page is currently still being updated! I'm going as fast as I can to get my projects here.</h1>

@@ -3,20 +3,15 @@ layout: post
 title: AI Defective Part Detector
 description: A machine learning model built to visually identify defects in injection molded parts
 image: assets/images/AIIM.jpg
+pdf_file: pdfs/Inj.pdf
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+The main motivation for this project was to build a machine learning algorithmn which would be able to identify issues with injection molded parts.<br/><br/>
+The reason why this is important, is because the QA process for some of these machines, especially those at the University are done manually, which can be both tiresome and time consuming.<br/><br/>
+With that, we used an injection molder to print about 200 parts for the machine learning model. We refrained upon printing more due to the amount of waste we were generating with the project itself.<br/><br/>
+We intentionally created batches of bad and good parts, aiming to create as may varied defects as possible. Once those parts were obtained, we took photos using a camera to train a CNN algorithm.<br/><br/>
+Primarly for the architecture, Tensorflow was used in a Python enviornment, where the sript would be running from.<br/><br/>
+We managed to ultimately achieve a high degree of accuracy with the system, and it was successfully able to identify defects and alert the user.<br/><br/>
+Attached below is the PDF of our report for this project.<br/><br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+{% pdf {{ page.pdf_file }} %}

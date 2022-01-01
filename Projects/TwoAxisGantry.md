@@ -5,18 +5,9 @@ description: DC Motor and Stepper motor two-axis gantry
 image: assets/images/tag.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+In this project, the two axis gantry shown in the video was made. It was controlled by a DC and Stepper motor driver board which was hand soldered. The controller on it was a TI MSP430 chip whose firmware was coded in C using Code Composer Studio.<br/><br/>
+The axis had a stepper motor which would move a platform perpendicular to the table, and a DC motor which would move a platform which was parallel to the table. A contoller was designed for the DC motor and coded in C onto the 
+MSP430 board to ensure it would not overshoot its position by more than 5mm, and would return to its position given any disturbances. The entire gantry was controller via Windows Form, written in C# and using a serial port to 
+communicate via UART to the controller. <br/><br/>
+The user could imput the desired location of travel, and the PWM for both the stepper and the DC motor in the Windows Form, which would then be read as data packets by the motor controller board, and reflected into the gantry 
+system.

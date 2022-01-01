@@ -3,17 +3,12 @@ layout: post
 title: Warehouse System Software
 description: Developing a system which allows users to control an e-commerence-esque warehouse.
 image: assets/images/warehouse.jpg
+youtubeId: VTLuXjeUF6s
 ---
 
-WAREHOUSEWAREHOUSE
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+This software project built in C# was to create a warehouse fo an e-commerce platform. It was made to simulate a robot-stocked warehouse. The user would have the ability to order items and check stock of items, an admin could shelve items and configure the warehouse.
+They could also control shipping trucks to be incoming and outgoing. Finally, robots would be populated inside the warehouse which would shelve items and ensure no shelf would be too overloaded.
+<br/><br/>This project took quite a large amount of work, given that it was built as processes, so each process could be created multiple times. Multithreading was used to control and ensure sycnronization throughout the entire system, and websockets were used to create
+a connection between the user and the warehouse, which could allow them to connect and control the warehouses at any time, much like existing e-commerce platforms today.<br/><br/>
+<div>
+<center>{% include youtubePlayer.html id=page.youtubeId %}
