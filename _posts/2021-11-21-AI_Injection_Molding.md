@@ -3,7 +3,6 @@ layout: post
 title: AI Defective Part Detector
 description: A machine learning model built to visually identify defects in injection molded parts
 image: assets/images/AIIM.jpg
-pdf_file: pdfs/Inj.pdf
 ---
 
 November 2021<br/><br/>
@@ -15,4 +14,4 @@ Primarly for the architecture, Tensorflow was used in a Python enviornment, wher
 We managed to ultimately achieve a high degree of accuracy with the system, and it was successfully able to identify defects and alert the user.<br/><br/>
 Attached below is the PDF of our report for this project.<br/><br/>
 
-{% pdf {{ page.pdf_file }} %}
+<embed src="https://t-guan.github.io/pdfs/Inj.pdf" type="application/pdf"/>
