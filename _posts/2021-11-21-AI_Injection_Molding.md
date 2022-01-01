@@ -14,4 +14,4 @@ Primarly for the architecture, Tensorflow was used in a Python enviornment, wher
 We managed to ultimately achieve a high degree of accuracy with the system, and it was successfully able to identify defects and alert the user.<br/><br/>
 Attached below is the PDF of our report for this project.<br/><br/>
 
-<embed src="https://t-guan.github.io/Portfolio/pdfs/Inj.pdf" type="application/pdf"/>
+<embed src="https://t-guan.github.io/Portfolio/pdfs/Inj.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
