@@ -9,7 +9,7 @@ nav-menu: true
 <html>
 	<section id="two" class="spotlights">
 		<section>
-			<a href="generic.html" class="image">
+			<a class="image">
 				<img src="{% link assets/images/skiprofile.jpg %}" alt="" data-position="center center" />
 			</a>
 			<div class="content">
