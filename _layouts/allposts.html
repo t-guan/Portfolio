@@ -7,32 +7,49 @@
 <html>
 
   {% include head.html %}
+<style>
+    body {
+        animation: fadeInAnimation ease 3s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+    }
 
-  <body>
+    @keyframes fadeInAnimation {
+        0% {
+            opacity: 0;
+        }
 
-    {% include header.html %} 
-    
-    
+        100% {
+            opacity: 1;
+        }
+    }
+</style>
+
+<body>
+
+    {% include header.html %}
+
+
     <!-- Main -->
     <div id="main" class="alt">
 
-      <!-- One -->
-      <section id="one">
-	<div class="inner">
-          {% for post in site.posts %}
-	          {% if post.title != 404 %}
-	          <header class="major">
-	            <h1>{{ post.title }}</h1>
-	          </header>
-	          {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	          <p>{{ post.content }}</p>
-	          {% endif %}
-          {% endfor %}
-	</div>
-      </section>
+        <!-- One -->
+        <section id="one">
+            <div class="inner">
+                {% for post in site.posts %}
+                {% if post.title != 404 %}
+                <header class="major">
+                    <h1>{{ post.title }}</h1>
+                </header>
+                {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+                <p>{{ post.content }}</p>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </section>
 
     </div>
 
-  </body>
+</body>
 
 </html>
