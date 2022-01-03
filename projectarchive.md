@@ -13,7 +13,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="Projects/Smart_Beehive.html" class="image">
-			<img src="{% link assets/images/BHive.jpg %}" alt="" data-position="center center" />
+			<img src=https://t-guan.github.io/Portfolio/assets/images/BHive.jpg alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
