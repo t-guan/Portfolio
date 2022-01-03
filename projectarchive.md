@@ -28,7 +28,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="Projects/AI_Injection_molding.html" class="image">
+		<a href="Projects/AI_Injection_Molding.html" class="image">
 			<img src="https://t-guan.github.io/Portfolio/assets/images/AIIM.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -44,7 +44,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="Projects/Warehouse_Software_system.html" class="image">
+		<a href="Projects/Warehouse_Software_System.html" class="image">
 			<img src="https://t-guan.github.io/Portfolio/assets/images/warehouse.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
