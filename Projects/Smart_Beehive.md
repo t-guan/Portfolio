@@ -15,4 +15,4 @@ This is just the first in an ongoing project, where the hive is going to be furt
 countermeaures in the new year.
 <div>
 <center>{% include youtubePlayer.html id=page.youtubeId %}
-<embed src="https://t-guan.github.io/Portfolio/pdfs/SmartBeehivePR.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
+<embed src="https://t-guan.github.io/Portfolio/Projects/pdfs/SmartBeehivePR.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
