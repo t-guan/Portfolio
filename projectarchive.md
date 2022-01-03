@@ -13,7 +13,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="Projects/Smart_Beehive.html" class="image">
-			<img src=https://t-guan.github.io/Portfolio/assets/images/BHive.jpg alt="" data-position="center center" />
+			<img src="https://t-guan.github.io/Portfolio/assets/images/BHive.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -29,7 +29,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="Projects/AI_Injection_molding.html" class="image">
-			<img src="{% link assets/images/AIIM.jpg %}" alt="" data-position="top center" />
+			<img src="https://t-guan.github.io/Portfolio/assets/images/AIIM.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -45,7 +45,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="Projects/Warehouse_Software_system.html" class="image">
-			<img src="{% link assets/images/warehouse.jpg %}" alt="" data-position="25% 25%" />
+			<img src="https://t-guan.github.io/Portfolio/assets/images/warehouse.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -61,7 +61,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="Projects/TwoAxisGantry.html" class="image">
-			<img src="{% link assets/images/tag.jpg %}" alt="" data-position="top center" />
+			<img src="https://t-guan.github.io/Portfolio/assets/images/tag.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -77,7 +77,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="Projects/MSP430_Firmware.html" class="image">
-			<img src="{% link assets/images/msp.jfif %}" alt="" data-position="25% 25%" />
+			<img src="https://t-guan.github.io/Portfolio/assets/images/msp.jfif" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -93,7 +93,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="Projects/IoT_SmartHome.html" class="image">
-			<img src="{% link assets/images/hassio.jpg %}" alt="" data-position="top center" />
+			<img src="https://t-guan.github.io/Portfolio/assets/images/hassio.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -109,7 +109,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="Projects/AlteraFPGA_Projects.html" class="image">
-			<img src="{% link assets/images/Altera.jpg %}" alt="" data-position="center center" />
+			<img src="https://t-guan.github.io/Portfolio/assets/images/Altera.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
