@@ -38,7 +38,7 @@ nav-menu: true
 				</header>
 				<p>Uses computer vision and the power of AI to detect defective parts which come out of an injection molding machine.<font size="-1"><br/>Project report in post<br/></font></p>
 				<ul class="actions">
-					<li><a href="Projects/AI_Injection_molding.html" class="button">Learn more</a></li>
+					<li><a href="Projects/AI_Injection_Molding.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -54,7 +54,7 @@ nav-menu: true
 				</header>
 				<p>Used C# and WebSockets to create a multi-process e-commerse-esque warehouse, order, and delivery system. Used multithreading, processes, and sockets to create client, admin, and warehouse programs, all which could communicate with each other.<font size="-1"><br/>Video demo in post<br/></font></p>
 				<ul class="actions">
-					<li><a href="Projects/Warehouse_Software_system.html" class="button">Learn more</a></li>
+					<li><a href="Projects/Warehouse_Software_System.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -86,7 +86,7 @@ nav-menu: true
 				</header>
 				<p>Used a TI MSP430 board to practice writing firmware and working on device-user interactions, created various projects including a video game controller. Programmed firmware in C and used Windows Form and C# for the user end.<font size="-1"><br/>Video demo in post<br/></font></p>
 				<ul class="actions">
-					<li><a href="Projects/Warehouse_Software_system.html" class="button">Learn more</a></li>
+					<li><a href="Projects/MSP430_Firmware.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
