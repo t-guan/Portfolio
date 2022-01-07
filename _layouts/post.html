@@ -15,22 +15,30 @@
 
 	<!-- Main -->
 	<div id="main" class="alt">
+			<!-- One -->
+			<section id="one">
+				<div class="inner">
+					<div class=" row">
+						<div class="3u 12u$(medium)">
+							<ul class="actions">
+								<li><a href="/Portfolio/projectarchive.html" class="button small">Back to Projects</a></li>
+							</ul>
+						</div>
+						<div class="6u 12u$(medium)">
+							<center>
+								<header class="major">
+									<h1>{{ page.title }}</h1>
+								</header>
+							</center>
+						</div>
+					</div>
+						{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+						{{ content }}
+				</div>
+			</section>
 
-		<!-- One -->
-		<section id="one">
-			<div class="inner">
-				<center>
-					<header class="major">
-						<h1>{{ page.title }}</h1>
-					</header>
-				</center>
-				{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
-				{{ content }}
-			</div>
-		</section>
+		</div>
 
-	</div>
-	
 </body>
 
 </html>
