@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Two-Axis Gantry System
 description: DC Motor and Stepper motor two-axis gantry
 image: assets/images/tag.jpg

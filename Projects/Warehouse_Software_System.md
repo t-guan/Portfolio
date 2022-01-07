@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Warehouse System Software
 description: Developing a system which allows users to control an e-commerence-esque warehouse.
 image: assets/images/warehouse.jpg

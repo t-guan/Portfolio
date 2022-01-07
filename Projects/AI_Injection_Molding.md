@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: AI Defective Part Detector
 description: A machine learning model built to visually identify defects in injection molded parts
 image: assets/images/AIIM.jpg

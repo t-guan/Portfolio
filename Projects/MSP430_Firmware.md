@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: MSP430 Firmware Projects
 description: As part of one of the courses, I coded the MSP430 for various uses.
 image:
