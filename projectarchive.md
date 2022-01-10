@@ -27,6 +27,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+		<section>
+		<a href="Projects/Wind_Turbine.html" class="image">
+			<img src="https://t-guan.github.io/Portfolio/assets/images/turb.jpg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Small-Scale Wind Turbine</h3>
+				</header>
+				<p>Building a small-scale wind turbine out of repurposed materials for a community in Nicaragua</p>
+				<ul class="actions">
+					<li><a href="Projects/Wind_Turbine.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section>
 		<a href="Projects/AI_Injection_Molding.html" class="image">
 			<img src="https://t-guan.github.io/Portfolio/assets/images/AIIM.jpg" alt="" data-position="top center" />

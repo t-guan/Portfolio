@@ -34,7 +34,7 @@ nav-menu: true
 				<ul>
 					<li>Translated industrial designs into feasible mechanical designs using PTC Creo.</li>
 					<li>Developed mechanical mechanisms for consumer devices, such as sliding doors, clips, and hinges.</li>
-					<li>Studied designs incorporating various electronic parts, such as antennas, LCD screens and batteries.</li>
+					<li>Designed devices incorporating various electronic parts, such as antennas, LCD screens and batteries.</li>
 					<li>Designed display FPC components for fit and connection inside mechanical enclosures.</li>
 					<li>Designed light pipes and other optical features for lighting on electronic devices.</li>
 					<li>Used rapid prototyping technologies, like 3D printing, custom PCBs, to test and validate potential designs.</li>
@@ -42,6 +42,7 @@ nav-menu: true
 					<li>Performed mold flow analysis on plastic parts.</li>
 					<li>Developed light pipe and lighting simulations using Trace Pro for ray-trace simulations.</li>
 					<li>Drew and maintained standard engineering drawings for parts, full-device assemblies, and drawings for assembly.</li>
+					<li>Performed competitive analysis and device teardowns to study mechanical designs</li>
 				</ul>
 			</dd>
 		</dl>
@@ -60,6 +61,8 @@ nav-menu: true
 				<li>Collaborated with Machinists to ensure feasibility and robustness of designs.</li>
 				<li>Performed Finite Element Analysis on designed parts to analyze and prevent operating failures, specifically stress, strain, and vibrations.</li>
 				<li>Performed time-to-failure tests on hardware and built simulations to validate results.</li>
+				<li>Assisted in designing and programming of a lubricant application machine using a Unitronics PLC Controller</li>
+				<li>Performed data analysis on a PLC-controller air compressor to determine response rate and tune</li>
 				</ul>
 			</dd>
 		</dl>
