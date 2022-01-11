@@ -2,7 +2,7 @@
 layout: project
 title: Altera DE0-CV Projects
 description: Learning Assembly on an Altera DE0-CV.
-image: assets\images\altera.jpg
+image: assets/images/altera.jpg
 youtubeId: 1KdnRus7AZ8
 ---
 
