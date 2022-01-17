@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Altera DE0-CV Projects
-description: Learning Assembly on an Altera DE0-CV.
+title: Altera DE0-CV Clock and Calculator
+description: Learning Assembly on an Altera DE0-CV. (Video Demo)
 image: assets/images/altera.jpg
 youtubeId: 1KdnRus7AZ8
 tile_ECE: true
