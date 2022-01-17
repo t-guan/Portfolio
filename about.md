@@ -4,6 +4,7 @@ title: About Me
 description: About Thomas Guan
 image:
 nav-menu: true
+show_tile: false
 ---
 
 <html>

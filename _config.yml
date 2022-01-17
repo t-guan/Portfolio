@@ -2,7 +2,7 @@
 title: Thomas Guan
 subtitle: 
 email: f/mqknapbz
-description: A Mechatronics Engineering student expected to graduate in May 2022.<br /> Experiences in mechanical and product design, and sustainable technologies.
+description: A Mechatronics Engineering student expected to graduate in May 2022.<br /> Experiences in mechanical and product design, interested in controls and sustainable technologies.
 baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -14,8 +14,9 @@ country:
 phone: 
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 2
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 0
+tiles-counter: 10
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands

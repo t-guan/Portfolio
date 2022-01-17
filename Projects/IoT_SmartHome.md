@@ -4,6 +4,7 @@ title: IoT SmartHome
 description: Instead of relying on large organizations to use my IoT devices, I decided to consolidate and control them on my own.
 image: assets/images/hassio.jpg
 youtubeId: 
+tile_ECE: true
 ---
 
 Smarthomes have become a more prevalent part of our everyday lives, and I, too, was swept up in the hype. However, I was pretty adverse to letting private companies access to my own data through smart voice devices, as well as the data it could collect from the sensors I would use. So,

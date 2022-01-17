@@ -3,6 +3,8 @@ layout: project
 title: Small-Scale Wind Turbine
 description: A project building a wind turbine for a small Nicaraguan Community
 image: assets/images/turb.jpg
+show_tile: project
+tile_MC: true
 ---
 
 As part of my time on the UBC Sustaingineering design team, I worked on the Mechanical Team on the wind turbine project. For this project, we partnered with an NGO, Casa Congo, to build a small wind turbine to power a school based in Nicaruagua.
@@ -21,4 +23,4 @@ mathematics of the gear drive design can be found in the PDF at the bottom of th
 
 Unfortunately, due to the pandemic circumstances, building on the turbine was halted, and due to the new variant, that progress continues to be stalled. However, we are working closely with University Labs and regulations to ensure progress is still being made, despite these challenges.
 
-<embed src="https://t-guan.github.io/Portfolio/Projects/pdfs/TurbDrive.pdf" type="application/pdf" style="min-height:100%;width:100%"/>
+<embed src="https://t-guan.github.io/Portfolio/Projects/pdfs/TurbDrive.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>

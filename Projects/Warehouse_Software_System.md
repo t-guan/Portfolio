@@ -4,6 +4,7 @@ title: Warehouse System Software
 description: Developing a system which allows users to control an e-commerence-esque warehouse.
 image: assets/images/warehouse.jpg
 youtubeId: VTLuXjeUF6s
+tile_ECE: true
 ---
 
 This software project built in C# was to create a warehouse fo an e-commerce platform. It was made to simulate a robot-stocked warehouse. The user would have the ability to order items and check stock of items, an admin could shelve items and configure the warehouse.

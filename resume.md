@@ -4,6 +4,7 @@ title: Resume
 description: Thomas Guan Resume
 image:
 nav-menu: true
+show_tile: false
 ---
 
 <html>

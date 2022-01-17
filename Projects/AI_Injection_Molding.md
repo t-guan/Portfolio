@@ -3,6 +3,7 @@ layout: project
 title: AI Defective Part Detector
 description: A machine learning model built to visually identify defects in injection molded parts
 image: assets/images/AIIM.jpg
+tile_ECE: true
 ---
 
 The main motivation for this project was to build a machine learning algorithmn which would be able to identify issues with injection molded parts.<br/><br/>
