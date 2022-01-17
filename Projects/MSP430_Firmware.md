@@ -1,7 +1,7 @@
 ---
 layout: project
 title: MSP430 Game Controller
-description: Learning to write firmware to achieve various functions on an MSP430 Board
+description: Learning to write firmware to achieve various functions on an MSP430 Board. (Video Demo)
 image:
 youtubeId: 7juvjBKXK2w
 tile_ECE: true

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Smart Beehive
-description: A set of technological attachmenets to beehives which can assist beekeepers in tending to their colonies.
+description: A set of technological attachmenets to beehives which can assist beekeepers in tending to their colonies. (Video Demo)
 image: assets/images/BHive.jpg
 youtubeId: sVTf1BaiNfE
 tile_MC: true

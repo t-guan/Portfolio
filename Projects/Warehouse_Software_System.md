@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Warehouse System Software
-description: Developing a system which allows users to control an e-commerence-esque warehouse.
+description: Developing a system which allows users to control an e-commerence-esque warehouse. (Video Demo)
 image: assets/images/warehouse.jpg
 youtubeId: VTLuXjeUF6s
 tile_ECE: true
